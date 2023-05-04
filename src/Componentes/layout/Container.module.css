@@ -4,6 +4,7 @@
     justify-content: space-between;
     margin: 0;
     flex-wrap: wrap; /*quando ultrapacar o valor de 1200px, ele desce o elemento para baixo*/
+
     
 }
 .min-hight{

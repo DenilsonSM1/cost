@@ -1,0 +1,11 @@
+.bnt{
+    background-color: #222;
+    padding: 0.6em;
+    border-radius: 6px;
+    color: #ffffff;
+    text-decoration: none;
+    transition: 0.3s;
+}
+.bnt:hover{
+    color:#ffbb33;
+}
