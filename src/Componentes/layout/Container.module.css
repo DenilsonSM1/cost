@@ -1,14 +1,17 @@
 .container{
-    width: 1200px;
+    width: 100%;
     display: flex;
     justify-content: space-between;
     margin: 0;
     flex-wrap: wrap; /*quando ultrapacar o valor de 1200px, ele desce o elemento para baixo*/
-
+    max-width: 100%;
+   
     
 }
 .min-hight{
     min-height: 75vh;
+    
+    
 }
 .start{
     justify-content: flex-start;
